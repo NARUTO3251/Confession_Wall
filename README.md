@@ -233,8 +233,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For any queries or support, please reach out to:
-- Email: [your-email@example.com]
-- Project Link: [repository-url]
+- Email: anaschaudhary1151@gmail.com
 
 ## Acknowledgments
 
