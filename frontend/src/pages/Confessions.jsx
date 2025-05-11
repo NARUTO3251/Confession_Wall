@@ -91,9 +91,9 @@ function Confessions() {
         <div className="confessions-header">
           <h2>Confessions</h2>
           <Button as={Link} to="/create-confession" className="create-confession-btn">
-            Create New Confession
-          </Button>
-        </div>
+          Create New Confession
+        </Button>
+      </div>
 
         {error && <Alert variant="danger">{error}</Alert>}
 
